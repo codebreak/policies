@@ -47,11 +47,13 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
 Please remember that mistakes happen, you are not a bad person, simply reassess your behavior and do better next time.
 
-## 6. License and attribution
+## 5. License and attribution
 
 This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+
+_Adopted by [ThoughtWorks San Francisco](http://thoughtworkssf.com) on October 19, 2015.
 
 _Revision 2.1. Posted 23 June 2014._
 
