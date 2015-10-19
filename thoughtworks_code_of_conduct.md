@@ -41,19 +41,31 @@ The following behaviors are considered harassment and are unacceptable at our ev
 
 If a participant engages in an inappropriate behavior, the event organizers may take any action they deem necessary including warning the offender or expulsion from the event. If you are being harassed, notice that someone else is being harassed or have any other concerns please contact an organizer immediately. 
 
-If you are not comfortable to speak to an organizer please feel free to send your concerns or any feedback to sf-event@thoughtworks.com
-
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
 Please remember that mistakes happen, you are not a bad person, simply reassess your behavior and do better next time.
 
-## 5. License and attribution
+##5. Reporting Guidelines
+
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify the event organizer as soon as possible. If you are not comfortable to speak to an organizer please feel free to send your concerns or any feedback to sf-event@thoughtworks.com.
+
+## 6. Scope
+
+We expect all event participants (contributors; sponsors; and other guests) to abide by this Code of Conduct at all ThoughtWorks San Francisco events--online and in-person.
+
+## 7. Contact info
+
+Hiyasmin Dimaranan
+Lead Consultant, ThoughtWorks San Francisco
+yas@thoughtworks.com
+
+## 8. License and attribution
 
 This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
-_Adopted by [ThoughtWorks San Francisco](http://thoughtworkssf.com) on October 19, 2015.
+_Adopted by [ThoughtWorks San Francisco](http://thoughtworkssf.com) on October 19, 2015._
 
 _Revision 2.1. Posted 23 June 2014._
 
