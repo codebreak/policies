@@ -8,7 +8,7 @@ This code of conduct outlines our expectations for all those who participate in 
 
 We invite all those who participate in ThoughtWorks San Francisco events to help us create safe and positive experiences for everyone.
 
-## 3. Expected Behavior
+## 2. Expected Behavior
 
 The following behaviors are expected and requested of all event participants:
 
@@ -16,13 +16,13 @@ The following behaviors are expected and requested of all event participants:
   * Exercise consideration and respect in your speech and actions.
   * Attempt collaboration before conflict. 
   * Respect that people have differences in opinion and that there is seldom a right answer.
-  * We’d rather you ask about gender than assume, and if you get it wrong apologize and use what they prefer.
-  * Photography is encouraged, but other participants must be given a reasonable chance to opt out from being photographed. It is inappropriate to take photographs in contexts where people have a reasonable expectation of privacy (in bathrooms or where participants are sleeping).
+  * Ask about gender rather than assume, and if you get it wrong apologize and use what they prefer.
+  * Photography is encouraged, but participants must be given a chance to opt out from being photographed. It is inappropriate to take photographs in contexts where people have a reasonable expectation of privacy (in bathrooms or where participants are sleeping).
   * Alcohol may be present at our events but please do not feel obligated to drink.
 
-## 4. Unacceptable Behavior
+## 3. Unacceptable Behavior
 
-The following behaviors are considered harassment and are unacceptable within our community:
+The following behaviors are considered harassment and are unacceptable at our events:
 
   * Violence, threats of violence or violent language directed against another person.
   * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
@@ -36,7 +36,7 @@ The following behaviors are considered harassment and are unacceptable within ou
   * Advocating for, or encouraging, any of the above behavior.
   * Sustained disruption of community events, including talks and presentations.
 
-## 5. Consequences of Unacceptable Behavior
+## 4. Consequences of Unacceptable Behavior
 
 
 If a participant engages in an inappropriate behavior, the event organizers may take any action they deem necessary including warning the offender or expulsion from the event. If you are being harassed, notice that someone else is being harassed or have any other concerns please contact an organizer immediately. 
