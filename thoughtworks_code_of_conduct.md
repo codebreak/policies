@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-A primary goal of ThoughtWorks San Francisco events is to be inclusive to a diverse group of people from all walks of life. Therefore, we are dedicated to providing a friendly, safe and welcoming environment for all, regardless of gender identity, sexual orientation, age, disability, physical appearance, body size, ethnicity, socioeconomic status and religion (or lack thereof). 
+A primary goal of ThoughtWorks San Francisco events is to be inclusive to a diverse group of people from all walks of life. Therefore, we are dedicated to providing a friendly, safe and welcoming environment for all, regardless of race, ethnicity, national origin, sexual orientation, gender identity, gender expression, age, appearance, disability, marital status, socioeconomic status, veteran status (or any other protected status), and religion (or lack thereof). 
 
 This code of conduct outlines our expectations for all those who participate in our events, as well as the consequences for unacceptable behavior.
 
@@ -16,7 +16,7 @@ The following behaviors are expected and requested of all event participants:
   * Exercise consideration and respect in your speech and actions.
   * Attempt collaboration before conflict. 
   * Respect that people have differences in opinion and that there is seldom a right answer.
-  * Ask about gender rather than assume, and if you get it wrong apologize and use what they prefer.
+  * Ask about gender rather than assume, and if you get it wrong apologize and use the gender pronoun they prefer. (Please keep in mind that continued misgendering is harassment!)
   * Photography is encouraged, but participants must be given a chance to opt out from being photographed. It is inappropriate to take photographs in contexts where people have a reasonable expectation of privacy (in bathrooms or where participants are sleeping).
   * Alcohol may be present at our events but please do not feel obligated to drink.
 
