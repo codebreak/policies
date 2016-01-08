@@ -17,7 +17,7 @@ The following behaviors are expected and requested of all event participants:
   * Attempt collaboration before conflict. 
   * Respect that people have differences in opinion and that there is seldom a right answer.
   * Ask about gender rather than assume, and if you get it wrong apologize and use the gender pronoun they prefer. (Please keep in mind that continued misgendering is harassment!)
-  * Photography is encouraged, but participants must be given a chance to opt out from being photographed. It is inappropriate to take photographs in contexts where people have a reasonable expectation of privacy (in bathrooms or where participants are sleeping).
+  * Please note that by attending our events, you are subject to being photographed. It is however, inappropriate to take photographs in contexts where people have a reasonable expectation of privacy (in bathrooms or where participants are sleeping).
   * Alcohol may be present at our events but please do not feel obligated to drink.
 
 ## 3. Unacceptable Behavior
