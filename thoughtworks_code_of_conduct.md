@@ -17,7 +17,7 @@ The following behaviors are expected and requested of all event participants:
   * Attempt collaboration before conflict. 
   * Respect that people have differences in opinion and that there is seldom a right answer.
   * Ask about gender rather than assume, and if you get it wrong apologize and use the gender pronoun they prefer. (Please keep in mind that continued misgendering is harassment!)
-  * Please note that by attending our events, you are subject to being photographed. It is however, inappropriate to take photographs in contexts where people have a reasonable expectation of privacy (in bathrooms or where participants are sleeping).
+  * Please note that by attending our events, you are subject to being photographed or videotaped.
   * Alcohol may be present at our events but please do not feel obligated to drink.
 
 ## 3. Unacceptable Behavior
@@ -29,7 +29,7 @@ The following behaviors are considered harassment and are unacceptable at our ev
   * Posting or displaying sexually explicit or violent material.
   * Posting or threatening to post other people's personally identifying information ("doxing").
   * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
-  * Inappropriate photography or recording.
+  * Inappropriate photography or recording (in any context where people have a reasonable expectation of privacy - in bathrooms or where participants are sleeping).
   * Inappropriate physical contact. You should have someone's verbal consent before touching them. Dressing or acting a certain way is not consent.
   * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
   * Deliberate intimidation, stalking or following (online or in person).
