@@ -55,9 +55,7 @@ We expect all event participants (contributors; sponsors; and other guests) to a
 
 ## 7. Contact info
 
-Hiyasmin Dimaranan
-Lead Consultant, ThoughtWorks San Francisco
-yas@thoughtworks.com
+ThoughtWorks San Francisco sf-event@thoughtworks.com.
 
 ## 8. License and attribution
 
@@ -65,7 +63,7 @@ This Code of Conduct is distributed under a [Creative Commons Attribution-ShareA
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
-_Adopted by [ThoughtWorks San Francisco](http://thoughtworkssf.com) on October 19, 2015._
+_Adopted by [ThoughtWorks San Francisco](https://github.com/codebreak/policies/edit/master/thoughtworks_code_of_conduct.md) on October 19, 2015._
 
 _Revision 2.1. Posted 23 June 2014._
 
